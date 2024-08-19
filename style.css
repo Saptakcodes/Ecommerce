@@ -14,14 +14,12 @@
 
 body {
     height: 100vh;
-    /* background: #f6f5f7; */
-    background-image: url("image5.jpeg");
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+    background: #f6f5f7;
+    background-image: url("imgggbg.jpg"); 
     display: grid;
     place-content: center;
     font-family: 'Poppins', sans-serif;
+    background-size: cover;
 }
 .container{
     position: relative;
@@ -63,9 +61,10 @@ h1{
 
 /* change down */
 .head{
-    position: relative;
-    top: -35%;
-    padding: 10px 10px 10px 10px;
+    font-family: 'Lato', 'Helvetica', sans-serif;
+    color: #243B55;
+    text-shadow: 5px 5px 5px #5557, -5px -5px 5px #5557;
+    
     
 }
 .social-container{
@@ -342,8 +341,3 @@ footer{
         margin: 4px;
     }
 }
-
-
-
-
-
