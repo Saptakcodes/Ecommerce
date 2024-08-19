@@ -15,7 +15,7 @@
 body {
     height: 100vh;
     background: #f6f5f7;
-    background-image: url("image5.jpg"); 
+    background-image: url("image5.jpeg"); 
     display: grid;
     place-content: center;
     font-family: 'Poppins', sans-serif;
